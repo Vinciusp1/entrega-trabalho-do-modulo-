@@ -1,0 +1,33 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "nome do jogo": "assasins creed",
+      "Console":"XBOX, PLAYSTATION,PC",
+      "ANO":"2007",
+      "criador":"Ubisoft"
+    },
+    {
+      "id": 2,
+      "nome do jogo": "Mario bros",
+      "Console":"nintendo",
+      "ano":"1983",
+      "criador": "Shingeru Myamoto"
+    },
+    {
+      "id": 3,
+      "nome do jogo": "sonic the hedgehog",
+    "Console": "master sistem, mega drive,sega saturn,dreamcast,xbox 360 & one & series,ps2,,ps3,ps4,ps5,pc,nintendo ds & 3ds,nintendo wii & wii u,",
+    "ano": "1991",
+    "criador":"Yugi Naka"
+    },
+    {
+      "id": 4,
+      "nomr do jogo": "Grand Thelf Auto",
+      "Console":"ps1,gba,psp,ps2,ps3,ps4,ps5,xbox 360,one,series,",
+      "ano":"1998",
+      "criador":"David Jones e Mike Dailly"
+    }
+    
+  ]
+}
